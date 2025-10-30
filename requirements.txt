@@ -11,4 +11,7 @@ pickle-mixin
 datetime
 transformers
 torch
+SpeechRecognition
+PyAudio
+
 
