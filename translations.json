@@ -1,0 +1,36 @@
+{
+  "en": {
+    "app_title": "🌾 Farmer Advisor",
+    "subtitle": "AI-based offline farming assistant",
+    "query_label": "Ask your question (text or use voice)",
+    "search_button": "Get Advice",
+    "language_toggle": "Language",
+    "download_pdf": "Download PDF Report",
+    "no_results": "No relevant advice found.",
+    "advice_for": "Advice for your query",
+    "charts_title": "Field Data Visualizations",
+    "voice_start": "Start Voice Input",
+    "voice_stop": "Stop",
+    "select_language": "Select Language",
+    "similar_qs": "Similar queries from dataset",
+    "confidence": "Confidence",
+    "recording_permission": "Allow microphone access if prompted."
+  },
+  "ta": {
+    "app_title": "🌾 விவசாய ஆலோசகர்",
+    "subtitle": "சார்பு இல்லா அகப்பட்டி AI உதவியாளர்",
+    "query_label": "உங்கள் கேள்வியை கேளுங்கள் (உரை அல்லது குரல்)",
+    "search_button": "ஆலோசனை கொடு",
+    "language_toggle": "மொழி",
+    "download_pdf": "PDF அறிக்கையை பதிவிறக்கம் செய்",
+    "no_results": "பொருத்தமான ஆலோசனை எதுவுமில்லை.",
+    "advice_for": "உங்கள் கேள்விக்கான ஆலோசனை",
+    "charts_title": "கட்சி தரவு காட்சிகள்",
+    "voice_start": "குரல் பதிவு தொடங்கு",
+    "voice_stop": "நிறுத்து",
+    "select_language": "மொழியை தேர்ந்தெடுக்கவும்",
+    "similar_qs": "தரவுத்தொகுப்பிலிருந்து தொடர்புடைய கேள்விகள்",
+    "confidence": "நம்பிக்கை",
+    "recording_permission": "மைக்ரோபோன் அணுகலை அனுமதிக்கவும்."
+  }
+}
