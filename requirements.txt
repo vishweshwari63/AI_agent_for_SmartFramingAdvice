@@ -1,17 +1,14 @@
-streamlit==1.32.0
+streamlit==1.39.0
 pandas
 numpy
-scikit-learn
-matplotlib
-faiss-cpu==1.12.0
-sentence-transformers==2.2.2
-transformers==4.44.0
-torch              # install the correct wheel for your CUDA/Python version from PyTorch site if needed
+faiss-cpu
+sentence-transformers
+deep-translator
 fpdf
+gTTS
 chardet
-SpeechRecognition
-pyaudio            # optional for microphone
-sounddevice
-wavio
-vosk               # optional if you prefer Vosk offline ASR instead of Google SR
-deep-translator    # optional; used only if you want cloud translation (not required here)
+pickle-mixin
+datetime
+transformers
+torch
+
