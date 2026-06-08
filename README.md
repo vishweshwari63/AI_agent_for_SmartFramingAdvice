@@ -3,7 +3,7 @@
 
 The **Smart Farming Advisor** is an AI-powered agricultural guidance system that helps farmers make better decisions about crop management.  
 It uses natural language understanding (NLP), translation, and intelligent retrieval to generate *dynamic*, context-aware farming advice — not static answers.
-
+Deploy Link : https://aiagentforsmartframingadvice-kmckmhxznqyxybnoz8aans.streamlit.app/
 ---
 
 ## 🚀 Features
